@@ -1,0 +1,3 @@
+APP,CONDITION,COMMAND
+IntelliJ IDEA,ENDS_WITH,You are using IntelliJ.
+Google Chrome,ENDS_WITH,You should be back on your IDE.
